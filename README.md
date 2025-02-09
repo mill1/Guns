@@ -5,8 +5,8 @@ This Visual Basic 6 application is a game I developed during the summer of 2001.
 The is the original read me:
 
 ------
-                                              GUNS
-                                     The real desktop game
+                          GUNS
+                 The real desktop game
 ------
 
 Guns is a freeware shooting game.
