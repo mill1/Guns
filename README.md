@@ -2,7 +2,7 @@
 
 This Visual Basic 6 application is a game I developed during the summer of 2001. After launching the executable the user's desktop is shown including a gun. The objective of the game is to shoot down the icons displayed in the desktop.
 
-The is the original read me:
+This is the original read me:
 
 ------
                           GUNS
