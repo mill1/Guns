@@ -2,6 +2,20 @@
 
 This Visual Basic 6 application is a game I developed during the summer of 2001. After launching the executable the user's desktop is shown including a gun. The objective of the game is to shoot down the icons displayed in the desktop.
 
+## Help
+
+The purpose of this game is to drop the desktop icons as quickly as possible.
+High scores exist per number of icons present on the desktop.
+You can choose to express the highscore either in time or in the number of shots needed. To do so just toggle the 'High score in shots fired' option in the menu you just accessed.
+
+Start the game by clicking the 'Play' button; to end the application click 'Exit'.
+To get additional information on the game controls right-click the control in question and select 'What's This?'. 
+You'll have to right-click text controls twice.
+The game is over when the fire button stays disabled.
+
+Enjoy!
+
+
 This is the original read me:
 
 ------
